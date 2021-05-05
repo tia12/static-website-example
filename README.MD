@@ -1,7 +1,7 @@
 ## Static Website Example
 ----------------------
 
-To be used with **Devops Easy Learning Lab**
+To be used with **DevOps Easy Learning Lab**
 
 
 
